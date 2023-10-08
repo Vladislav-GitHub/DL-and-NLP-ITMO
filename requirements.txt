@@ -1,7 +1,0 @@
-Flask==2.1.2
-Flask_Session==0.4.0
-eli5==0.10.1
-numpy==1.22.4
-pandas==1.4.3
-pytest==7.1.2
-scikit_learn==1.1.2
