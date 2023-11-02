@@ -9,3 +9,9 @@ This is my next step towards climbing to the top of data science with an ITMO co
 
 
 [3nd Pull Request](https://github.com/Vladislav-GitHub/DL-and-NLP-ITMO-course/pull/4)
+
+
+[4nd Pull Request](https://github.com/Vladislav-GitHub/DL-and-NLP-ITMO-course/pull/5)
+
+
+[5nd Pull Request](https://github.com/Vladislav-GitHub/DL-and-NLP-ITMO-course/pull/6)
