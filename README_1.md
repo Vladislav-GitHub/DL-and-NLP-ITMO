@@ -4,7 +4,6 @@ This is my next step to climb the mountain of the Data Sciense with ITMO course 
 
 NLP tasks' links:
 
-(новая ветка для доп. файлов)
 
 
 [1st Pull Request](https://github.com/Vladislav-GitHub/DL-and-NLP-ITMO-course/pull/1)
